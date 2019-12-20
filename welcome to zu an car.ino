@@ -160,7 +160,7 @@ void sz_tone( int SPEAKER_PIN, int FREQUENCY, unsigned long TEMPO )
 
 
 
-//接下来就是把它应用了
+//接下来就是把它应用了，循环即可
 
 void playTest()
 {
