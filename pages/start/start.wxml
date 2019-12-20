@@ -1,0 +1,6 @@
+<!--start.wxml-->
+<view class="intro">
+
+</view>
+
+<button class="btn1" bindtap="navigate">查看小车回传数据</button>
